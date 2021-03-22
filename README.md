@@ -1,6 +1,10 @@
 ## 内容
 React Hooks + Django REST Frameworkで実装した簡易タスク管理アプリのフロント側
 
+**サーバー側**
+
+[sample-drf-api](https://github.com/yuisato-git/sample-drf-api)
+
 ## 準備
 .envファイルをrootディレクトリ直下に作成し、以下の環境変数を記載
 ```
